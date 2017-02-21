@@ -1,0 +1,4 @@
+"/Users/Nick/Library/Application Support/JetBrains/Toolbox/apps/CLion/ch-0/163.9166.31/CLion.app/Contents/bin/cmake/bin/cmake" -DCMAKE_BUILD_TYPE=Debug -G "CodeBlocks - Unix Makefiles" "/Users/Nick/Documents/ClionProjects/Roman Numeral Converter"
+-- Configuring done
+-- Generating done
+-- Build files have been written to: /Users/Nick/Documents/ClionProjects/Roman Numeral Converter/cmake-build-debug
